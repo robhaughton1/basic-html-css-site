@@ -17,6 +17,3 @@ This project is a basic HTML and CSS website created as part of an early web dev
 ## Technologies Used
 - HTML5
 - CSS3
-
-## How to View
-Open `index.html` in any web browser to view the webpage.
